@@ -46,3 +46,15 @@ Based on the cluster analysis, can summarize and naming the segments as
 The chart is useful for marketers to understand the behaviour of different user segments and tailor their advertising strategies accordingly.
 
 For example, ads targeting the “Weekend Warriors” could be scheduled for the weekend when they are most active, while “Engaged Professionals” might respond better to ads that are spread evenly throughout the week.
+
+
+![image](https://github.com/Pravallikab29/User-Profiling-and-Segmentation-using-K-Means-Clustering/assets/132104267/f463facd-e052-4d2a-8c3b-4eda4b585a67)
+
+
+![image](https://github.com/Pravallikab29/User-Profiling-and-Segmentation-using-K-Means-Clustering/assets/132104267/3726fb31-fc89-46c5-91af-08563d7b42fa)
+
+![image](https://github.com/Pravallikab29/User-Profiling-and-Segmentation-using-K-Means-Clustering/assets/132104267/2ceff8b5-c4d9-46ef-a295-c618301cb28c)
+
+
+
+
