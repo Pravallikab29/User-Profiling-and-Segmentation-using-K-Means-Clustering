@@ -27,7 +27,7 @@ Segmenting users into distinct groups for targeted ad campaigns. Segmentation ca
 - Behavioural: Time Spent Online, Likes and Reactions, CTR, Conversion Rates 
 - Interests: Aligning ad content with the top interests identified
 
-To implement user profiling and segmentation, can apply clustering techniques or develop personas based on the combination of these attributes. This approach enables the creation of more personalized and effective ad campaigns, ultimately enhancing user engagement and conversion rates.
+To implement user profiling and segmentation, I apply clustering techniques or develop personas based on the combination of these attributes. This approach enables the creation of more personalized and effective ad campaigns, ultimately enhancing user engagement and conversion rates.
 
 Selecting a subset of features that could be most indicative of user preferences and behaviour for segmentation and apply a clustering algorithm to create user segments
 
